@@ -1,4 +1,4 @@
-# 🤖 A/B Test Results Analysis — Statistical Testing & Logistic Regression
+# 💻 A/B Test Results Analysis — Statistical Testing & Logistic Regression
 
 A comprehensive statistical analysis project that evaluates whether a new webpage design leads to higher user conversion rates using **descriptive statistics**, **probability**, **hypothesis testing via bootstrapped simulation**, and **logistic regression** — building from first principles up to a full model.
 
